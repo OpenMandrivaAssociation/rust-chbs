@@ -5,8 +5,8 @@
 %global crate chbs
 
 Name:           rust-%{crate}
-Version:        0.0.9
-Release:        2%{?dist}
+Version:        0.1.1
+Release:        1%{?dist}
 Summary:        Crate providing secure passphrase generation based on a wordlist
 
 # Upstream license specification: MIT
